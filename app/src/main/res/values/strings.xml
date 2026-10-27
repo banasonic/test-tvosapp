@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TVOS Cards</string>
+    <string name="svc_label">TVOS Cards overlay key</string>
+    <string name="svc_desc">Listens for your chosen remote key (long press) to show or hide the TVOS Cards overlay on top of any app.</string>
+</resources>
